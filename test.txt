@@ -1,3 +1,0 @@
-This is my first file on Git. 
-
-I would like to add more files and learn more about Git/GitHub. Lets see...
